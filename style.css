@@ -1,0 +1,39 @@
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+#rgb-color {
+    display: flex;
+    justify-content: center;
+}
+
+#score {
+    display: flex;
+    justify-content: center;
+}
+
+#allBalls {
+    margin: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#answer {
+    display: flex;
+    justify-content: center;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.ball {
+    border: 1px solid black;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+}
